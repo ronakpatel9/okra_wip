@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:todo_list/todo_list_screen.dart';
+import 'package:okra/todo_list_screen.dart';
 
 void main() => runApp(MyApp());
 

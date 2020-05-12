@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:todo_list/db_helper.dart';
-import 'package:todo_list/new_todo_dialog.dart';
-import 'package:todo_list/todo.dart';
-import 'package:todo_list/todo_list.dart';
+import 'package:okra/db_helper.dart';
+import 'package:okra/new_todo_dialog.dart';
+import 'package:okra/todo.dart';
+import 'package:okra/todo_list.dart';
 
 enum Settings { DeleteDone }
 

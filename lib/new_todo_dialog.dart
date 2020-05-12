@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:todo_list/todo.dart';
+import 'package:okra/todo.dart';
 
 class NewTodoDialog extends StatelessWidget {
   final controller = TextEditingController();
